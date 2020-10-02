@@ -13,13 +13,14 @@ might include:
 1. Your personal and professional values
 1. Hobbies or fun facts
 
-Write it in first (I) or third (Your Name Here) person.
+10+ year of program management experience.
+Passionate to deliver cutting edge and industry leading services and solutions.
 
 > Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Senior Technical Program Manager
 
 ## Recognition
 
